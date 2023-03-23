@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://devicons.dev.br/">
-    <img src="[![Skills](https://devicons.dev.br/icons?icon=Java,Python&size=50&theme=dark&perline=2)](https://devicons.dev.br/)" />
-  </a>
-</p>
+(https://devicons.dev.br/icons?icon=Java,Python&size=50&theme=dark&perline=2)
