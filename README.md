@@ -16,11 +16,11 @@ Desenvolvedor apaixonado por tecnologia e software livre. Bem-vindo ao meu perfi
 
 ### Minhas Skills
 
-<!-- ENDPOINT CORRETO -->
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,github,git,vscode,linux,windows&theme=dark" />
 </p>
 
+---
 ---
 
 <div align="center">
