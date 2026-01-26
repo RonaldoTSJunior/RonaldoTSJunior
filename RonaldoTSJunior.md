@@ -6,17 +6,17 @@ Desenvolvedor apaixonado por tecnologia e software livre. Bem-vindo ao meu perfi
 
 ### Minhas Estatísticas do GitHub
 
-<!-- Garante que a imagem seja renderizada corretamente no GitHub -->
+<!-- URL COMPLETO DO ENDPOINT -->
 ![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app)
 
-<!-- Garante que a imagem seja renderizada corretamente no GitHub -->
+<!-- URL COMPLETO DO ENDPOINT -->
 ![Top Languages](https://github-readme-stats.vercel.app)
 
 ---
 
 ### Minhas Skills
 
-<!-- Usa a tag HTML img para garantir o alinhamento e a renderização correta das skills -->
+<!-- URL COMPLETO DO ENDPOINT -->
 <p align="left">
   <img src="https://skillicons.dev" />
 </p>
@@ -24,8 +24,8 @@ Desenvolvedor apaixonado por tecnologia e software livre. Bem-vindo ao meu perfi
 ---
 
 <div align="center">
-  <a href="https://github.com/">
-  <!-- Contador de Visualizações (Opcional, também usa a tag img) -->
+  <a href="https://github.com">
+  <!-- URL COMPLETO DO ENDPOINT -->
   <img src="https://komarev.com" alt="RonaldoTSJunior profile views" />
   </a>
 </div>
