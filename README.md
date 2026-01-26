@@ -9,7 +9,7 @@
 ### Minhas Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,github,git,vscode,linux,windows&theme=dark" />
+  <img src="[https://skillicons.dev/icons?i=c,python,js,html,css,github,git,vscode,linux,windows&theme=dark](https://api.devicons.dev.br/icon?icons=HTML%2CC%2CPython%2CCSS%2CJavaScript%2CMySQL%2CMSSQL%2CGit%2CGithub&size=48&theme=dark&perline=3)" />
 </p>
 
 ---
