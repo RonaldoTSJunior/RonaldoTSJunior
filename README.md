@@ -8,10 +8,11 @@
 
 ### Minhas Skills
 
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=c,python,js,html,css,github,git,vscode,linux,windows&theme=dark](https://api.devicons.dev.br/icon?icons=HTML%2CC%2CPython%2CCSS%2CJavaScript%2CMySQL%2CMSSQL%2CGit%2CGithub&size=48&theme=dark&perline=3)" />
+<p align="center">
+  <a href="https://devicons.dev.br/">
+    <img src="https://api.devicons.dev.br/icon?icons=Python,AWS,NodeJS&size=70" />
+  </a>
 </p>
-
 ---
 
 <div align="center">
