@@ -1,16 +1,8 @@
-# Olá, eu sou o RonaldoTSJunior 👋
-
-Desenvolvedor apaixonado por tecnologia e software livre. Bem-vindo ao meu perfil do GitHub!
-
----
-
 ### Minhas Estatísticas do GitHub
 
-<!-- ENDPOINT CORRETO -->
-![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app)
+![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoTSJunior&show_icons=true&theme=dark)
 
-<!-- ENDPOINT CORRETO -->
-![Top Languages](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoTSJunior&layout=compact&theme=dark)
 
 ---
 
@@ -21,11 +13,9 @@ Desenvolvedor apaixonado por tecnologia e software livre. Bem-vindo ao meu perfi
 </p>
 
 ---
----
 
 <div align="center">
-  <a href="https://github.com">
-  <!-- ENDPOINT CORRETO -->
-  <img src="https://komarev.com" alt="RonaldoTSJunior profile views" />
+  <a href="https://github.com/RonaldoTSJunior">
+    <img src="https://komarev.com/ghpvc/?username=RonaldoTSJunior&color=blue" alt="RonaldoTSJunior profile views" />
   </a>
 </div>
