@@ -1,13 +1,12 @@
 ### Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoTSJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RonaldoTSJunior&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoTSJunior&layout=compact&theme=dark&hide_title=false" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RonaldoTSJunior&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
-
 ---
 
 ### Minhas Skills
