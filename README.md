@@ -1,8 +1,12 @@
 ### Minhas Estatísticas do GitHub
 
-![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoTSJunior&show_icons=true&theme=dark&hide_border=false)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoTSJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoTSJunior&layout=compact&theme=dark&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoTSJunior&layout=compact&theme=dark&hide_title=false" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
@@ -15,7 +19,5 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/RonaldoTSJunior">
-    <img src="https://komarev.com/ghpvc/?username=RonaldoTSJunior&color=blue&style=flat-square" alt="RonaldoTSJunior profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=RonaldoTSJunior&color=blue&style=flat-square" alt="Views" />
 </div>
